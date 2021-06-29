@@ -1,16 +1,16 @@
 # Project1
-##Colab Project
+## Colab Project
 
-#Proposal – Group 04 
+# Proposal – Group 04 
 
-##Predict Future Sales of GTA Residential Properties
+## Predict Future Sales of GTA Residential Properties
 
 Prediction of pricing for Residential Properties for future;
 Prediction of volume of sales in Ontario for next years;
 Information based on 
 Housing Price base on the (neighborhood)
 
-##Questions:
+## Questions:
 
 1-	Most expensive Neighborhood (Ali)
 2-	Most affordable Neighborhood (fernanda)
@@ -20,7 +20,7 @@ Housing Price base on the (neighborhood)
 6-	6-Interest rate, house hold income impact on the affordability and buying power – Grace
 7-	Interest rate comparation with amount of people looking to buy a house
 
-##Variables:
+## Variables:
 
 location (neighborhood)
 interest rate (grace)
