@@ -1,4 +1,4 @@
-﻿DATE,GEO,DGUID,Labour force characteristics,Sex,Age group,Statistics,Data type,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+﻿Date,GEO,DGUID,Labour force characteristics,Sex,Age group,Statistics,Data type,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
 2000-01-01,Ontario,2016A000235,Population,Both sexes,15 to 64 years,Estimate,Seasonally adjusted,Persons,249,thousands,3,v21581321,7.1.1.8.1.1,7762.9,,,,1
 2000-02-01,Ontario,2016A000235,Population,Both sexes,15 to 64 years,Estimate,Seasonally adjusted,Persons,249,thousands,3,v21581321,7.1.1.8.1.1,7775.2,,,,1
 2000-03-01,Ontario,2016A000235,Population,Both sexes,15 to 64 years,Estimate,Seasonally adjusted,Persons,249,thousands,3,v21581321,7.1.1.8.1.1,7787.3,,,,1
