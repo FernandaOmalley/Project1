@@ -16,7 +16,7 @@ Housing Price base on the (neighborhood)
 
 2-	Most affordable Neighborhood (fernanda);
 
-3-	Are people renting more or owning (based on the interest rate) (fernanda);
+3-	Comparison people renting more or owning (fernanda);
 
 4-	Target market (base on the age and house hold income, type of property) -  (Mohammad);
 
