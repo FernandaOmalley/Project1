@@ -48,6 +48,7 @@ Matplotlib;
 Panel;
 Plotly;
 Pyviz;
+GeoPy;
 Jupyter Notebook;
 Seaborn;
 sklearn API - Machine Learning
