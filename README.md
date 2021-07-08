@@ -2,13 +2,13 @@
 
 ## Analysis and Model to Predict Future Housing Price of Toronto Neighborhoods
 
-Housing price is always a hot topic to discuss no matter you are a buyer or seller. Our analysis aims to explore what the key factors are and how they influence the pricing from both macro and micro aspects. Our report also reviews the current market and predict the future pricing by neighborhoods throught Decision tree Regression Machine Learning methodology.   
+Housing price is always a hot topic to discuss no matter you are a buyer or seller. Our analysis aims to explore what the key factors are and how they influence the pricing from both macro and micro aspects. Our report also reviews the current market and predict the future pricing by neighborhoods through Decision Tree Regression Machine Learning methodology.   
 ![welcome_pic](PNG/welcome_pic.PNG)
 
 ## Questions and Findings
 
 1-	 What are the key macro factors for the housing price? How these factors impact on housing price historically?– (Grace)
-  Key factors: Consumer Price Index (CPI), Unemployment, Household income, Prime rate, etc.
+  Key factors: Consumer Price Index (CPI), Unemployment rate, Household income, Prime rate, etc.
 
 ![macro_variables](PNG/macro_variables.PNG)
 
