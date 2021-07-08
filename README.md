@@ -1,52 +1,66 @@
-# Project1
-## Colab Project
+## Project 1 - Group 4
 
-# Proposal – Group 04 
+## Analysis and Model to Predict Future Housing Price of Toronto Neighborhoods
 
-## Predict Future Sales of GTA Residential Properties
+Housing price is always a hot topic to discuss no matter you are a buyer or seller. Our analysis aims to explore what the key factors are and how they influence the pricing from both macro and micro aspects. Our report also reviews the current market and predict the future pricing by neighborhoods throught Decision tree Regression Machine Learning methodology.   
+![welcome_pic](PNG/welcome_pic.PNG)
 
-Prediction of pricing for Residential Properties for future;
-Prediction of volume of sales in Ontario for next years;
-Information based on 
-Housing Price base on the (neighborhood)
+## Questions and Findings
 
-## Questions:
+1-	 What are the key macro factors for the housing price? How these factors impact on housing price historically?– (Grace)
+  Key factors: Consumer Price Index (CPI), Unemployment, Household income, Prime rate, etc.
 
-1-	Most expensive Neighborhood (Ali);
+![macro_variables](PNG/macro_variables.PNG)
 
-2-	Most affordable Neighborhood (fernanda);
+2-	 What are the most expensive neighborhoods in Toronto? – (Ali)
 
-4-	Target market (base on the age and house hold income, type of property) -  (Mohammad);
+![most_expensive_neighbourhood](PNG/most_expensive_neighbourhood.PNG)
 
-5-	Neighborhood Growth (based on how many people live in that house) – (Ali);
+3-	 How the housing prices increased by neighborhoods? (Growth rate) - (Ali)
 
-6-	The impact on housing price and historical trends anaylsis for Macro variables (Consumer Price Index (CPI), Household Income, Prime Rate, Unemployment Rate, House Price Index (HPI)) – Grace;
+![growth_rate](PNG/growth_rate.PNG)
 
-7-	Interest rate comparation with amount of people looking to buy a house.
+4-	 Which neighborhoods are the most affordable? What tpye of housing are the most affordable? - (Fernanda)
+
+![gmost_affordable](PNG/most_affordable.PNG)
+
+5-	 Prediction for the future housing prices of Toronto by neighborhood - (Muhammad)
+
+Methodology: Cluster based analysis – K-means clustering is one of the simplest and popular unsupervised machine learning algorithms. In other words, the K-means algorithm identifies k number of centroids, and then allocates every data point to the nearest cluster, while keeping the centroids as small as possible.
+
+![housing_type_cooefficient](PNG/housing_type_cooefficient.PNG)
 
 
 ## Variables:
 
-location (neighborhood);
+Primary rate;
+Household income;
+Consumer Price Index (CPI);
+Unemployment rate;
+Housing price;
+Location by neighborhood;
+Housing type;
 
-interest rate (grace);
+## Tools/Libraries/API
+Python;
+Pandas;
+Matplotlib;
+Panel;
+Plotly;
+Pyviz;
+Jupyter Notebook;
+Seaborn;
+sklearn API - Machine Learning
 
-price – uploaded  (grace);
 
-house on the market;
+## Conclusion:
+Based on the analysis above using the machine learning methodology, it is proven that the price of the Toronto market is going up steadily.
 
-sold houses ;
+![housing_price_prediction](PNG/housing_price_prediction.PNG)
 
-house size;
 
-day on the market ;
-
-Sales to List (price listed vs. buying price);
-
-Average House hold income (grace);
-
-Age demographics;
-
-type of property;
-
-Rental rate (fernanda)
+## Sources:
+1. Factors that Affect the Housing Market: https://www.economicshelp.org/blog/377/housing/factors-that-affect-the-housing-market/
+2. Housing Statistics: https://www.statcan.gc.ca/eng/subjects-start/housing
+3. Macro Factors csv data: https://open.canada.ca/en
+4. Housing Prices Analysis and Prediction: https://www.kaggle.com/zhunqiang/housing-prices-analysis-and-prediction#data
