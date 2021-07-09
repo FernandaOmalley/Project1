@@ -67,6 +67,6 @@ Based on the analysis above using the machine learning methodology, it is proven
 4. Housing Prices Analysis and Prediction: https://www.kaggle.com/zhunqiang/housing-prices-analysis-and-prediction#data
 
 ## Important Update
-During our analysis we faced some issue related to charts and dashboard
-Prabjot was asked and consulted with and according to her findings these are some on going issues that these libraries are facing and are being worked upon
-Because of the above issues, these graphs are removed from the dashboard but are being diplayed as part of the code
+During our analysis we faced some issue related to charts and dashboard.
+ Prabjot was asked and consulted with and according to her findings these are some on going issues that these libraries are facing and are being worked upon.
+ Because of the above issues, these graphs are removed from the dashboard but are being diplayed as part of the code.
